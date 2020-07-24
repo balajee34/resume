@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.4d3929a0.chunk.css",
+    "main.js": "/resume/static/js/main.d8db3cb4.chunk.js",
+    "main.js.map": "/resume/static/js/main.d8db3cb4.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/resume/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.deb2393e.chunk.js": "/resume/static/js/2.deb2393e.chunk.js",
+    "static/js/2.deb2393e.chunk.js.map": "/resume/static/js/2.deb2393e.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.55e72c0399bf935ec02fdd6b2254bfa9.js": "/resume/precache-manifest.55e72c0399bf935ec02fdd6b2254bfa9.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/resume/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.4d3929a0.chunk.css.map": "/resume/static/css/main.4d3929a0.chunk.css.map",
+    "static/js/2.deb2393e.chunk.js.LICENSE.txt": "/resume/static/js/2.deb2393e.chunk.js.LICENSE.txt",
+    "static/media/Rochester-Regular.otf": "/resume/static/media/Rochester-Regular.5f826d26.otf",
+    "static/media/logo.svg": "/resume/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d8c91e.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.deb2393e.chunk.js",
+    "static/css/main.4d3929a0.chunk.css",
+    "static/js/main.d8db3cb4.chunk.js"
+  ]
+}
